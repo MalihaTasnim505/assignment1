@@ -98,6 +98,9 @@ border-radius: 50px;
 color: tomato;
 font-weight: 600;
 }
+.extradiv2 input{
+    border-radius: 5px;
+}
 .extrasec{
     background-image: url(images/coding.png);
     width: 100%;
