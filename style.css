@@ -1,0 +1,89 @@
+body{
+    margin: 5%; font-family: 'Vujahday Script', cursive; font-size: 24px;
+}
+.flexible{
+    display: flex;
+}
+.intro{
+    width: 50%; padding: 20px 50px;
+}
+.intro img{
+    width: 100%;
+}
+.header{
+    font-size: 40px; border-left: 5px solid tomato; border-radius: 2px; padding-left: 3%;
+}
+.specific{
+    color: rgba(41, 121, 196, 0.753);
+    
+}
+.link{
+    text-decoration: none; 
+    color: antiquewhite; 
+    background-color: tomato; 
+    padding: 10px; 
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.header2{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+}
+#div1{
+    background-color: lightgreen;
+}
+#div2{
+    background-color: lightpink;
+}
+#div3{
+    background-color: lightskyblue;
+    
+}
+.style{
+    padding: 10px;
+    margin-left: 2%;
+    margin-left: 2%;
+    border-radius: 50px;
+}
+.illus{
+    height: 200px; width: 200px;
+}
+.margin{
+    margin-top: 10%;
+}
+
+.distance{
+    padding: 100px;
+    margin-top: 10%;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 300px;
+}
+    .header3{
+        color: tomato;
+        text-align: left;
+        font-size: 40px;
+        font-weight: 700;
+    }
+
+    .distance2{
+    padding: 100px;
+    margin-top: 5%;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 250px;
+
+    }
+
+    footer{
+        background-color: thistle;
+        text-align: center;
+        background-size: 50px;
+        font-size: 20px;
+        padding: 5%;
+        margin-top: 5%;
+    }
