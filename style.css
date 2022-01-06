@@ -76,11 +76,40 @@ body{
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: 250px;
-
     }
+.extradiv{
+    height: 200px;
+    width: 500px;
+    padding-left: 5%;
+    width: 50%;
+
+}
+.extradiv h1{
+    font-weight: 700;
+    color: tomato;
+}
+.extradiv2{
+height: 300px;
+width: 300px;
+padding: 5%;
+background-color: lightslategray;
+margin: 5%;
+border-radius: 50px;
+color: tomato;
+font-weight: 600;
+}
+.extrasec{
+    background-image: url(images/coding.png);
+    width: 100%;
+    padding: 2%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+
 
     footer{
-        background-color: thistle;
+        background-color: lightsalmon;
         text-align: center;
         background-size: 50px;
         font-size: 20px;
